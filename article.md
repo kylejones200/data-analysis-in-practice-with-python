@@ -181,7 +181,7 @@ df['pos'] = [analyzer.polarity_scores(v)['pos'] for v in df['desc']]
 ```
 
 
-[**Intro to Natural Language Processing using NLTK in Python**\ *This simple project shows how to use natural language processing to look at the most common terms in a text.*medium.com](https://medium.com/@kylejones_47003/intro-to-natural-language-processing-using-nltk-in-python-ddce6a0ff8ac "https://medium.com/@kylejones_47003/intro-to-natural-language-processing-using-nltk-in-python-ddce6a0ff8ac")[](https://medium.com/@kylejones_47003/intro-to-natural-language-processing-using-nltk-in-python-ddce6a0ff8ac)
+[Intro to Natural Language Processing using NLTK in Python\ *This simple project shows how to use natural language processing to look at the most common terms in a text.*medium.com](https://medium.com/@kylejones_47003/intro-to-natural-language-processing-using-nltk-in-python-ddce6a0ff8ac "https://medium.com/@kylejones_47003/intro-to-natural-language-processing-using-nltk-in-python-ddce6a0ff8ac")[](https://medium.com/@kylejones_47003/intro-to-natural-language-processing-using-nltk-in-python-ddce6a0ff8ac)
 #### Regression with Sentiment Analysis Polarity Scores
 Now that we have new features for sentiment, we can regress those against price to see if there is an association.
 
